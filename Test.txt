@@ -1,2 +1,0 @@
-http://34.235.131.59:8080/project/WebHook_Git
-test
